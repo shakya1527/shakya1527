@@ -1,4 +1,4 @@
-### Hi! I'm Shakya 👋
+### Hi! I'm Shakya 
 <img src="https://raw.githubusercontent.com/shakya1527/shakya1527/main/gif.webp" width="150" /> 
 I'm a Master's student interested in Android development and Python programming. This GitHub profile showcases my projects and learning journey in these areas.
 
