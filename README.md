@@ -1,11 +1,11 @@
 ### Hi! I'm Shakya 
 
-I'm a Master's student interested in Android development and Python programming. This GitHub profile showcases my projects and learning journey in these areas.
+I'm a Master's student interested in  Python programming and Android development. This GitHub profile showcases my projects and learning journey in these areas.
 
 **Current Interests:**
 
-* Android Development: Building native Android applications with Java/Kotlin.
 * Python Programming: Scripting, data analysis, and exploring various Python libraries.
+* Android Development: Building native Android applications with Java/Kotlin.
 
 **Feel free to:**
 
@@ -18,11 +18,6 @@ I'm a Master's student interested in Android development and Python programming.
 * Java/Kotlin
 * Python (along with specific libraries mentioned in relevant repositories)
 * Git version control
-
-### My Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakya1527&show_icons=true&locale=en&layout=compact" alt="Shakya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakya1527&show_icons=true&locale=en" alt="Shakya" /></p>
-
 
 </br>
 I'm constantly learning and expanding my skillset. Stay tuned for new projects!
