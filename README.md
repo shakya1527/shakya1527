@@ -1,23 +1,30 @@
-### Hi! I'm Shakya 
+### Hi! I'm Shakya
 
-I'm a Master's student interested in  Python programming and Android development. This GitHub profile showcases my projects and learning journey in these areas.
+I'm a Master's student passionate about exploring diverse fields in software development and data technologies. This GitHub profile highlights my projects, experiments, and learning journey across multiple domains.
 
 **Current Interests:**
 
-* Python Programming: Scripting, data analysis, and exploring various Python libraries.
-* Android Development: Building native Android applications with Java/Kotlin.
+* Python Programming: Scripting, automation, data analysis, and machine learning.
+* Java Development: Building robust applications and understanding core concepts.
+* Databases: SQL, PL/SQL, and database management.
+* Linux: Command-line tools, shell scripting, and system administration.
+* Data Visualization: Power BI and creating insightful dashboards.
 
 **Feel free to:**
 
-* Browse my repositories to see my code and project ideas.
-* Fork my projects and contribute your own ideas! 
-* Reach out to me if you have any questions or want to collaborate on a project.
+* Browse my repositories to explore my work and ideas.
+* Fork projects or collaborate on new innovations.
+* Reach out if you want to connect or work together.
 
 **Languages and Technologies:**
 
-* Java/Kotlin
-* Python (along with specific libraries mentioned in relevant repositories)
+* Python  
+* Java  
+* SQL / PL/SQL  
+* Linux  
+* Power BI  
 * Git version control
 
-</br>
-I'm constantly learning and expanding my skillset. Stay tuned for new projects!
+---
+
+I’m continuously learning and expanding my skillset across different fields — stay tuned for new projects and updates!
