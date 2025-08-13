@@ -19,7 +19,8 @@ I'm a Master's student passionate about exploring diverse fields in software dev
 **Languages and Technologies:**
 
 * Python  
-* Java  
+* Java
+* Kotlin  
 * SQL / PL/SQL  
 * Linux  
 * Power BI  
