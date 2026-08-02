@@ -1,31 +1,57 @@
-### Hi! I'm Shakya
+# Hi! I'm Shakya 👋
 
-I'm a Master's student passionate about exploring diverse fields in software development and data technologies. This GitHub profile highlights my projects, experiments, and learning journey across multiple domains.
+I'm a **Jr. DevOps Engineer** passionate about cloud infrastructure, automation, CI/CD, containerization, and modern software delivery practices. I enjoy building, automating, and improving systems while continuously learning new technologies.
 
-**Current Interests:**
+This GitHub profile highlights my projects, experiments, and learning journey across **DevOps, Cloud Computing, Software Development, and AI**.
 
-* Python Programming: Scripting, automation, data analysis, and machine learning.
-* Java Development: Building robust applications and understanding core concepts.
-* Databases: SQL, PL/SQL, and database management.
-* Linux: Command-line tools, shell scripting, and system administration.
-* Data Visualization: Power BI and creating insightful dashboards.
+### 🚀 Current Interests
 
-**Feel free to:**
+* **Cloud & DevOps:** Building scalable and reliable infrastructure using **Google Cloud Platform (GCP)** and modern DevOps practices.
+* **CI/CD:** Automating application build, testing, and deployment workflows using **Jenkins** and **GitHub Actions**.
+* **Infrastructure as Code:** Provisioning and managing cloud infrastructure using **Terraform** and **Ansible**.
+* **Containers & Kubernetes:** Containerizing applications with **Docker** and deploying workloads using **Kubernetes and Google Kubernetes Engine (GKE)**.
+* **Monitoring & Observability:** Working with **Prometheus** and **Grafana** to monitor infrastructure and applications.
+* **Linux & Automation:** Using **Linux, Bash, and Python** for system administration and automation.
+* **AI & Application Development:** Exploring **Python, Streamlit, and Google Gemini API** to build AI-powered applications.
 
-* Browse my repositories to explore my work and ideas.
-* Fork projects or collaborate on new innovations.
-* Reach out if you want to connect or work together.
+### 🛠️ Languages & Technologies
 
-**Languages and Technologies:**
+* Google Cloud Platform (GCP)
+* Amazon Web Services (AWS)
+* Kubernetes / GKE
+* Docker
+* Terraform
+* Jenkins
+* GitHub Actions
+* Git & GitHub
+* Ansible
+* Prometheus & Grafana
+* Linux
+* Python
+* Bash
+* SQL
+* Streamlit
+* Google Gemini API
 
-* Python  
-* Java
-* Kotlin  
-* SQL / PL/SQL  
-* Linux  
-* Power BI  
-* Git version control
+### 📌 What You'll Find Here
+
+* DevOps and cloud infrastructure projects
+* CI/CD pipeline implementations
+* Kubernetes and Docker projects
+* Terraform Infrastructure as Code
+* Python automation scripts
+* AI-powered applications
+* Experiments and projects from my learning journey
+
+### 🤝 Feel Free To
+
+* Explore my repositories and projects.
+* Check out my DevOps and cloud implementations.
+* Fork projects or suggest improvements.
+* Connect with me for collaboration and opportunities.
 
 ---
 
-I’m continuously learning and expanding my skillset across different fields — stay tuned for new projects and updates!
+I'm continuously learning and expanding my skills in **Cloud, DevOps, Kubernetes, Infrastructure Automation, and AI**.
+
+**Thanks for visiting my profile! 🚀**
